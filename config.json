@@ -1,0 +1,14 @@
+{
+  "bot":{
+    "token":"837943318:AAE6EQUmnVjh9YuM2WZ9c4YSH_C_7ySUko0",
+    "webhook":"https://copiae.serveo.net"
+  },
+  "path":{
+    "caulenh1":"/home/logs/thumuc1/",
+    "caulenh2":"/home/logs/thumuc2/",
+    "caulenh3":"/home/logs/thumuc3/"
+  },
+  "list_func":[
+    "caulenh1","caulenh2","caulenh3","ping","check","telnet"
+  ]
+}
